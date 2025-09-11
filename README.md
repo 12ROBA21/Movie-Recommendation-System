@@ -80,6 +80,8 @@ python src/build_recommender.py --ratings data/ratings.csv --movies data/movies.
 ### Ratings Distribution
 <img width="960" height="640" alt="ratings_hist" src="https://github.com/user-attachments/assets/c498d323-2659-43b7-b9d3-1a5f2ee517b9" />
 
+---
+
 ### Top Movies by Avg Rating
 <img width="1280" height="960" alt="top_movies" src="https://github.com/user-attachments/assets/525ee9d8-70c5-48e6-a721-18481d64123a" />
 
