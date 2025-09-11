@@ -119,4 +119,3 @@ Movie 713    41.00
 ## Notes
 - Positive items are defined as ratings ≥ 4 for evaluation.
 - The hybrid weight `alpha` controls emphasis on collaborative (α→1) vs. content (α→0).
-- 
